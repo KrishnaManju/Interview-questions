@@ -6,12 +6,16 @@
 
  HTML5 is a specification which has following features
 
- - delivers rich content withot need of additional plugins like FLASH
+ - delivers rich content without the need of additional plugins like FLASH
  - introduced a new concept "web workers"
  - 
 
  *Standard and Quirks mode*
 
+
+ * Explain the difference between SVG and Canvas?*
+
+ *
 
 
 
@@ -27,9 +31,9 @@
 
 *what are CSS Preprocessors?*
 
+*what are CSS filters?*
 
-
-
+*what does a float do?*
 
 
 
@@ -53,9 +57,7 @@
 
 *what is the difference between Function Expression and Function declaration?*
 
-
-
-
+*call vs bind vs apply?*
 
 
 
@@ -64,4 +66,21 @@
 *what is CORS?*
 
 *what is FOUC?*
+
+*what are your strengths?*
+
+*what are your weaknesses?*
+
+*How can you handle important decisions?*
+
+*How well can you work under Pressure?*
+
+*How best can you integrate multiple stylesheets in your approach?*
+
+*what is the difference between Progressive Enhancement and graceful degradation?*
+
+
+
+
+
 
