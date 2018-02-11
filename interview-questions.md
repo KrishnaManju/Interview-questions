@@ -6,17 +6,17 @@
 
  HTML5 is a specification which has following features
 
- - delivers rich content without the need of additional plugins like FLASH
- - introduced a new concept "web workers"
- - 
+  - delivers rich content without the need of additional plugins like FLASH
+  - introduced a new concept "web workers"
+  - 
 
  *Standard and Quirks mode* 
 
 
- * Explain the difference between SVG and Canvas?*
+ *Explain the difference between SVG and Canvas?*
  
  
-  *Explain the difference between HTML4, XHTML and HTML5?*
+ *Explain the difference between HTML4, XHTML and HTML5?*
 
  
 
@@ -82,7 +82,7 @@
 
 *what is the difference between Progressive Enhancement and graceful degradation?*
 
-* How do you clone an object?*
+*How do you clone an object?*
 
 *what is the significance of wrapping JS source file?*
 
