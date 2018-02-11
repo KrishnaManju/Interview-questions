@@ -10,12 +10,12 @@
  - introduced a new concept "web workers"
  - 
 
- *Standard and Quirks mode*
+ *Standard and Quirks mode* or *Explain the difference between HTML4, XHTML and HTML5?*
 
 
  * Explain the difference between SVG and Canvas?*
 
- *
+ 
 
 
 
@@ -78,6 +78,14 @@
 *How best can you integrate multiple stylesheets in your approach?*
 
 *what is the difference between Progressive Enhancement and graceful degradation?*
+
+* How do you clone an object?*
+
+*what is the significance of wrapping JS source file?*
+
+*what is the importance of 'use strict' in javascript?*
+
+*How do you check whether a given input is a number or NOT?*
 
 
 
