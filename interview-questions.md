@@ -10,10 +10,13 @@
  - introduced a new concept "web workers"
  - 
 
- *Standard and Quirks mode* or *Explain the difference between HTML4, XHTML and HTML5?*
+ *Standard and Quirks mode* 
 
 
  * Explain the difference between SVG and Canvas?*
+ 
+ 
+  *Explain the difference between HTML4, XHTML and HTML5?*
 
  
 
@@ -21,11 +24,11 @@
 
 ## CSS
 
-*what is the difference between ID and class?
+*what is the difference between ID and class?*
 
 *what is CSS Box model?*
 
-*what is CSS transition?
+*what is CSS transition?*
 
 *what is specificity?*
 
@@ -39,7 +42,7 @@
 
 ## Javascript
 
-*what is 'this' in Javascript?
+*what is 'this' in Javascript?*
 
 *what are closures?*
 
