@@ -1,6 +1,8 @@
 ## Create a five star rating widget
 
-_HTML: _
+This program is written using HTML,CSS and jQuery. Functionality can be tested on [Codepen](https://codepen.io/manju2912/pen/zRwGGp) 
+
+_HTML:_
 
 ```HTML
 <div class="rating-div">
