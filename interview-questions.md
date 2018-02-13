@@ -1,4 +1,8 @@
-# Interview Questions
+# Front-End Interview Questions
+   
+  There are some static questions which needs to be known by every front end Developer. I am listing down all those questions here. I will update this page whenever I find some new and interesting concept as a question so that we can keep on refreshing concepts. Initally, I thought I have to maintain this page for me alone so that I can refer it whenever needed. Later I think others too can refresh their minds.
+  
+  This page will be helpful for freshers to know the concepts and for experienced to test/refresh their minds. Happy Learning!!
 
 ## HTML
 
@@ -40,6 +44,8 @@
 
 
 
+
+
 ## Javascript
 
 *what is 'this' in Javascript?*
@@ -61,6 +67,10 @@
 *what is the difference between Function Expression and Function declaration?*
 
 *call vs bind vs apply?*
+
+##jQuery
+
+*what is the difference between children and find methods in jQuery?*
 
 
 
