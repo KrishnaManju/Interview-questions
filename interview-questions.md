@@ -1,8 +1,8 @@
 # Front-End Interview Questions
    
-  There are some static questions which needs to be known by every front end Developer. I am listing down all those questions here. I will update this page whenever I find some new and interesting concept as a question so that we can keep on refreshing concepts. Initally, I thought I have to maintain this page for me alone so that I can refer it whenever needed. Later I think others too can refresh their minds.
+  There are some static questions which needs to be known by every front end Developer. I am listing down all those questions here. I will update this page whenever I find some new and interesting concept as a question so that we can keep on refreshing the concepts. Initally, I thought to maintain this page for me alone so that I can refer it whenever needed. Later I think others too can refresh their minds with this page.
   
-  This page will be helpful for freshers to know the concepts and for experienced to test/refresh their minds. Happy Learning!!
+  This page will be useful for freshers to learn the important concepts whereas for experienced, to test/refresh their minds. Happy Learning!!
 
 ## HTML
 
