@@ -66,9 +66,39 @@
 
 *what is the difference between Function Expression and Function declaration?*
 
+    Function Declaration defines a named function ie., "function" keyword followed by the name of the function. When using function declarations, the function definition is hoised,thus allowing the function to be used before it is defined.
+
+      Syntax:
+      ```
+      function name(parameters) {
+      // write logic here
+      }
+      ```
+      ```
+      Eg: function add(x, y) {
+            return x + y;
+          }
+      ```
+      Function Expressions defines a named or anonymous function. An anonymous function is a function that has no name. Function expressions are not hoised and therefore this function cannot be used before they are defined.
+      In the below example, we are seeting anonymous function object equal to a variable
+
+      Syntax:
+      ```
+      let name = function(parameters) {
+                     //logic               
+                  };
+       ```
+       ```
+       Eg: var sum = function ( x, y) {
+                        return x + y;
+                     }
+
+      ```
+        _Calling a function:_ sum(5, 10);
+
 *call vs bind vs apply?*
 
-##jQuery
+## jQuery
 
 *what is the difference between children and find methods in jQuery?*
 
