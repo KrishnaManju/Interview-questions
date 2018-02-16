@@ -5,4 +5,18 @@ I am not giving answers here. If you stuck at some question, you can google it f
 "interview questions".
 
 1. can we use article inside section and vice versa? Provide me some examples?
-2.
+2. what is the output of the following function?
+  ```javascript
+      function fn(num = 10, compare) {         
+          return num === compare;
+      }      
+      console.log(fn(10));
+```
+
+3. what is the output of the following function?
+    ```javascript
+        function fn(num = compare, compare = 6) {         
+            console.log(num === compare);
+        }      
+        fn();
+  ```
