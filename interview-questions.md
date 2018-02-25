@@ -50,6 +50,16 @@
 
 *what is 'this' in Javascript?*
 
+ At the time of execution of every function, JavaScript engine sets a property to the function called this which refer to the current execution context. this is always refer to an object and depends on how function is called. There are 7 different cases where the value of this varies. 
+1.	In the global context or inside a function this refers to the window object.
+2.	Inside IIFE (immediate invoking function) if you use "use strict", value of this is undefined. To pass access window inside IIFE with "use strict", you have to pass this.
+3.	While executing a function in the context of an object, the object becomes the value of this
+4.	Inside a setTimeout function, the value of this is the window object.
+5.	If you use a constructor (by using new keyword) to create an object, the value of this will refer to the newly created object.
+6.	You can set the value of this to any arbitrary object by passing the object as the first parameter of bind, call or apply
+7.	For dom event handler, value of this would be the element that fired the event
+
+
 *what are closures?*
 
 *what is hoisting?*
