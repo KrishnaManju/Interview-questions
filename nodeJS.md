@@ -126,3 +126,12 @@
 25) What is ‘Callback’ in node.js?
 
         Callback function is used in node.js to deal with multiple requests made to the server. Like if you have a large file which is going to take a long time for a server to read and if you don’t want a server to get engage in reading that large file while dealing with other requests, call back function is used. Call back function allows the server to deal with pending request first and call a function when it is finished.
+
+26) What is REPL in context of Node?  
+
+              REPL stands for Read Eval Print Loop and it represents a computer environment like a window console or unix/linux shell where a command is entered and system responds with an output. Node.js or Node comes bundled with a REPL environment. It performs the following desired tasks.
+
+              Read - Reads user's input, parse the input into JavaScript data-structure and stores in memory.
+              Eval - Takes and evaluates the data structure
+              Print - Prints the result
+              Loop - Loops the above command until user press ctrl-c twice.
