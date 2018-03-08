@@ -105,6 +105,20 @@
 
 *call vs bind vs apply?*
 
+*what is the output of the below question?*
+
+      var namesInHat = ["Ron", "Tom", "April", "Ben"];
+      namesInHat[999] = "Jean-Ralphio";
+      console.log(namesInHat.length)
+      console.log(namesInHat[200]);
+
+Solution: 
+
+Length of the array is 1000 and namesInHat[200] is undefined.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://stackoverflow.com/questions/6499352/does-null-occupy-memory-in-javascript.
+
+
 ## jQuery
 
 *what is the difference between children and find methods in jQuery?*
