@@ -62,7 +62,8 @@
 
 *what are closures?*
 
-      Closures are the combination of the function and the lexical environment where the function will be invoked. In full terms, closures are the inner functions which has access to the local variables and outer variables declared either in parents scope or declared gobally.
+
+Closures are the combination of the function and the lexical environment where the function will be invoked.In full terms, closures are the inner functions which has access to the local variables and outer variables declared either in parents scope or declared gobally.
  
  ```javascript
  // constructor
