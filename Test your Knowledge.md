@@ -19,14 +19,13 @@ I am not giving answers here. If you stuck at some question, you can google it f
 
   *  what is the output of the following function?
 
-    ```javascript
+     ``` javascript
         function fn(num = compare, compare = 6) {         
             console.log(num === compare);
         }      
         fn();
-  ```
+     ```
   
-
 # Test your knowledge in SQL server
 
   * what is the difference between ROW_NUMBER and DENSE_RANK?
